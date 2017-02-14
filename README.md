@@ -4,7 +4,6 @@ A template to use when creating goal repositories.
 
 Goal repositories should include (at minimum):
 
-- A clear learning contract in a [CONTRACT.md](CONTRACT.md) file, complete with specifications and quality criteria
 - A proper [LICENSE](LICENSE)
 - A basic [README.md](README.md) file with some introductory information (doesn't need to be much)
 
